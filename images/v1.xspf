@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/ELCOT/Downloads/v1.mp4</location>
+			<duration>8020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/1_5134577340159885845.mkv</location>
+			<title>www.1TamilMV.work</title>
+			<image>file:///C:/Users/ELCOT/AppData/Roaming/vlc/art/arturl/553050d17a9abe41186641bc0b8a9516/art.png</image>
+			<duration>9047365</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/3.mp4</location>
+			<duration>30024</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/4_6019117999275903422.mkv</location>
+			<title>www.1TamilMV.pw</title>
+			<image>attachment://TamilMV.png</image>
+			<duration>6748052</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/asuran.mp4</location>
+			<duration>28900</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/conjuring3.mkv</location>
+			<title>www.1TamilMV.one</title>
+			<image>attachment://www.1TamilMV.one.png</image>
+			<duration>6713206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/doctor.mkv</location>
+			<title>www.1TamilMV.guru</title>
+			<image>attachment://www.1TamilMV.guru.png</image>
+			<duration>8538998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/e0bcd7b5-80ef-47f0-9ce1-7371120ee586.webm</location>
+			<duration>65162</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/kamali.mkv</location>
+			<title>www.1TamilMV.us</title>
+			<image>attachment://www.1TamilMV.us.png</image>
+			<duration>8800665</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/kanna%20kanae.mp4</location>
+			<duration>49800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/LIFT.mkv</location>
+			<title>www.1TamilMV.guru</title>
+			<image>attachment://www.1TamilMV.guru.png</image>
+			<duration>8088128</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/MASTER.mkv</location>
+			<title>www.TamilBlasters.nl</title>
+			<duration>10240743</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/Netrikann.mkv</location>
+			<duration>8736469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/nsp.xspf</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/pogaru.mp4</location>
+			<duration>243671</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/santhanam%20parrisjeyraj.mkv</location>
+			<title>www.1TamilMV.us</title>
+			<image>attachment://www.1TamilMV.us.png</image>
+			<duration>7887698</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/soorari%20pootru.mkv</location>
+			<title>www.TamilBlasters.live</title>
+			<duration>8963391</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/sulthan.mkv</location>
+			<title>www.TamilBlasters.one</title>
+			<duration>9378935</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/telugu.mp4</location>
+			<duration>31184</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/uyire.mp4</location>
+			<duration>33032</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20200917-WA0000.mp4</location>
+			<duration>24300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20200927-WA0001.mp4</location>
+			<duration>29629</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20200928-WA0004.mp4</location>
+			<duration>29699</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201011-WA0003.mp4</location>
+			<duration>35776</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201011-WA0004.mp4</location>
+			<duration>17973</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201013-WA0039.mp4</location>
+			<duration>33234</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201015-WA0002.mp4</location>
+			<duration>33751</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201015-WA0003.mp4</location>
+			<duration>28306</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201015-WA0004.mp4</location>
+			<duration>18334</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201021-WA0003.mp4</location>
+			<duration>35435</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201021-WA0004.mp4</location>
+			<duration>63148</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201022-WA0002.mp4</location>
+			<duration>54918</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201022-WA0003.mp4</location>
+			<duration>59967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201027-WA0033.mp4</location>
+			<duration>33299</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201104-WA0028.mp4</location>
+			<duration>54278</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Videos/Sent/VID-20201111-WA0007.mp4</location>
+			<duration>16900</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Downloads/v2.mp4</location>
+			<duration>9440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Downloads/v2.mp4</location>
+			<duration>9440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ELCOT/Downloads/v1.mp4</location>
+			<duration>8020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+	</extension>
+</playlist>

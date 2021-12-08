@@ -15,18 +15,8 @@
 <br/>
 <h3>🎯Website Images</h3>
 <hr/>
-<img src="./screenshot/Screenshot (366).png" />
-<img src="./screenshot/Screenshot (367).png" />
-<img src="./screenshot/Screenshot (368).png" />
-<img src="./screenshot/Screenshot (369).png" />
-<img src="./screenshot/Screenshot (370).png" />
-<img src="./screenshot/Screenshot (371).png" />
-<img src="./screenshot/Screenshot (372).png" />
-<img src="./screenshot/Screenshot (373).png" />
-<img src="./screenshot/Screenshot (374).png" />
-<img src="./screenshot/Screenshot (375).png" />
-<img src="./screenshot/Screenshot (376).png" />
-<br/>
+
+
 <h3>🎯Website links</h3>
 <hr/>
 <a href="https://goofy-bardeen-81ee5e.netlify.app/">link to the webpage</a>
